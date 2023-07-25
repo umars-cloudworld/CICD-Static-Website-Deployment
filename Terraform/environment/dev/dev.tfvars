@@ -1,0 +1,6 @@
+region          = "us-east-1"
+project         = "alpha"
+environment     = "dev"
+bucket_name     = "cicd-deployment-static-website"
+repository_name = "static-website"
+pipeline_name   = "react-pipeline-project"
