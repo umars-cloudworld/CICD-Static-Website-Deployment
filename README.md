@@ -26,7 +26,7 @@ Before getting started, ensure you have the following prerequisites:
 
 ## Installation
 
-Follow these steps to set up the CICD pipeline for your static website:
+Follow these steps to set up the CI/CD pipeline for your static website:
 
 1. Fork this repository and clone it to your local machine.
 2. Upload your static website files to the CodeCommit repository.
